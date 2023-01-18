@@ -1,0 +1,31 @@
+.first{
+    height: auto;
+}
+ul{
+    font-weight: bold;
+}
+#third{
+    font-size: 30px;
+}
+.img-rotate{
+    transform: rotate(30deg);
+}
+body{
+    overflow-x: hidden;
+}
+.second{
+    justify-content: center;
+}
+.imggg{
+    display: flex;
+    justify-content: center;
+}
+.f-icon{
+    font-size: 30px;
+    color: black;
+    padding-left: 5px;
+}
+.f-icon:hover{
+    background-color: black;
+    color: white;
+}
